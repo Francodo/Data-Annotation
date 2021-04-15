@@ -1,0 +1,16 @@
+@font-face{
+  font-family:"Appen Basis";
+  font-weight:400;
+  src:url("/fonts/appen-basis/AppenBasis-Regular.woff2") format("woff2"), url("/fonts/appen-basis/AppenBasis-Regular.woff") format("woff"), url("/fonts/appen-basis/AppenBasis-Regular.ttf") format("truetype"); }
+
+@font-face{
+  font-family:"Appen Basis";
+  font-weight:500;
+  src:url("/fonts/appen-basis/AppenBasis-Medium.woff2") format("woff2"), url("/fonts/appen-basis/AppenBasis-Medium.woff") format("woff"), url("/fonts/appen-basis/AppenBasis-Medium.ttf") format("truetype"); }
+
+@font-face{
+  font-family:"Appen Basis";
+  font-weight:600;
+  src:url("/fonts/appen-basis/AppenBasis-Bold.woff2") format("woff2"), url("/fonts/appen-basis/AppenBasis-Bold.woff") format("woff"), url("/fonts/appen-basis/AppenBasis-Bold.ttf") format("truetype"); }
+
+/*# sourceMappingURL=appen-fonts-efda9eda44.css.map */
